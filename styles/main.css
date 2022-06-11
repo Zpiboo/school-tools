@@ -1,0 +1,13 @@
+@import "./categories.css"
+
+
+/* Little clear :D */
+html, body {
+  margin: 0;
+  padding: 0;
+
+  height: 100%;
+}
+* {
+  box-sizing: border-box;
+}
