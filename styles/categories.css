@@ -1,0 +1,25 @@
+.category {
+  height: 50vh;
+}
+
+.category p {
+  position: absolute;
+
+  margin: 0;
+
+  /* Center text */
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+
+  /* Style text */
+  font-size: 3rem;
+}
+
+.category.exercises {
+  background-image: linear-gradient(
+                      to bottom,
+                      #aef,
+                      #9de
+                    );
+}
