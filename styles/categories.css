@@ -1,5 +1,6 @@
 .category {
-  height: 50vh;
+  height: 50%;
+  margin: 0;
 }
 
 .category p {
