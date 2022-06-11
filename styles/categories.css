@@ -16,10 +16,19 @@
   font-size: 3rem;
 }
 
+/* Categories color */
 .category.exercises {
   background-image: linear-gradient(
                       to bottom,
                       #aef,
                       #9de
+                    );
+}
+
+.category.lessons {
+  background-image: linear-gradient(
+                      to bottom,
+                      #fff,
+                      #eee
                     );
 }
