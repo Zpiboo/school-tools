@@ -17,6 +17,7 @@ menu = {
 
 categories.forEach(category => {
   category.addEventListener("click", () => {
+    alert("click !");
     menu[category.classList.item(1)]();
   });
 });
